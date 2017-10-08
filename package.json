@@ -10,7 +10,7 @@
     "react-scripts": "1.0.14",
     "redux": "^3.7.2"
   },
-  "homepage" : "https://github.com/PashaSchool/event-idiea.git/",
+  "homepage" : "https://pashaschool.github.io/event-idiea/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
